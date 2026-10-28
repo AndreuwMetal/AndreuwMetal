@@ -25,24 +25,28 @@ I like problems where AI has to be *measurably* right: agents that sell without 
 | Summer 2025 | Qiskit Global Summer School · OpenCV CSRT tracker fixes |
 | 2025 – 2026 | Radar noise and drone flight simulation → full-time Software Engineer |
 | 2026 | Counter-UAS RF & jamming simulators · Forge-AI studio · **CloseBench** |
+| Autumn 2026 | First judge–human agreement study for CloseBench · listed in Awesome-AI-Agents · AI visualizers for local businesses |
 
 ## ⭐ Featured: CloseBench
 
 **[CloseBench](https://github.com/AndreuwMetal/closebench)** — the reference benchmark for AI sales agents. Coding agents have SWE-bench; selling had nothing serious. CloseBench drops a complete agent (prompt + tools + guardrails + state) into realistic WhatsApp sales conversations against an LLM-simulated buyer and grades whether it closes **without ever breaking policy** — one lie or invented price fails the scenario.
 
 52 scenarios · 3 difficulty tiers · `pass^k` reliability · $/conversation · zero dependencies, dry-runs with no API keys.
-Code on [GitHub](https://github.com/AndreuwMetal/closebench) · dataset on [Hugging Face](https://huggingface.co/datasets/AndreuwMetal/closebench)
+Code on [GitHub](https://github.com/AndreuwMetal/closebench) · dataset on [Hugging Face](https://huggingface.co/datasets/AndreuwMetal/closebench) · listed in [Awesome-AI-Agents](https://github.com/Jenqyang/Awesome-AI-Agents)
+
+**Latest:** the first judge–human agreement numbers are published (two labelers, Cohen's κ) — and they say plainly that the LLM judge is not yet at human level. Also new: prompt caching for buyer and judge with honestly priced cache tokens, and provider-pinned baselines. A paper is in preparation.
 
 ## 🔨 Built at Forge-AI
 
 | Project | What it does |
 |---|---|
 | **FineForge** | Turns YouTube videos and papers into curated fine-tuning datasets: prompt search, AI relevance scoring, human curation, PDF summaries. |
+| **AI visualizers that can't invent** | For local businesses in Madrid — upholstery, signage, dog grooming: the customer uploads a photo and sees the result with the business's *real* catalogue (actual fabrics, products it really makes, services it really offers). The AI only picks from what exists; it never imagines a product. Claude + structured output. |
 | **Automated Idealista CRM** | Monitors real-estate listings, dedupes across portals, detects sold/withdrawn units; API, alerts, paywall, Chrome extension. |
 | **Dashboard Property** | Private real-time portal where homeowners follow marketing, viewings, offers and documents of their sale. |
 | **[Seating Plan](https://github.com/AndreuwMetal/boda-mesas)** | Live wedding seating plan: guests scan a QR, type their name and land on their seat. React, Konva, Supabase Realtime. |
 | **[ForHabits](https://github.com/AndreuwMetal/forhabits)** | Habit-building mobile app based on *Atomic Habits*. React Native + Expo. |
-| **SiteForge websites** | [Helenne](https://github.com/AndreuwMetal/helenne) artisan store, luxury real-estate site, aesthetics clinic, flamenco artist — designed and built end to end. |
+| **SiteForge websites** | [Helenne](https://helenne.es) artisan store, luxury real-estate site, aesthetics clinic, flamenco artist — designed and built end to end. |
 | **[Wedding invitation](https://github.com/AndreuwMetal/wedding-invitation-example)** | Interactive invitation built on Google Apps Script. |
 
 ## 🛰️ Engineering at Aicox
