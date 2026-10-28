@@ -1,12 +1,12 @@
 # Hi, I'm Andrés 👋
 
-Physics & Industrial Engineering student at **UC3M** · Software Engineer at **Aicox Soluciones** · Founder of **[Forge-AI](https://forge-ai.xyz)**, an AI product studio building tools for sales, growth, real estate and model fine-tuning.
+Physics Engineering student at **UC3M** · Software Engineer at **Aicox Soluciones** · Founder of **[Forge-AI](https://forge-ai.xyz)**, an AI product studio building tools for sales, growth, real estate and model fine-tuning.
 
 I like problems where AI has to be *measurably* right: agents that sell without lying, visualizers that can't invent products, simulations that behave like the real hardware.
 
 ## 👤 About me
 
-- 🎓 **Physics & Industrial Engineering** at Universidad Carlos III de Madrid (2023 – present) · GPA 8.6/10 · Honors in Calculus II
+- 🎓 **Physics Engineering** (Bachelor's) at Universidad Carlos III de Madrid (2023 – present) · GPA 8.6/10 · Honors in Calculus II
 - 🏅 Science Baccalaureate with a **10/10** and a School Honors Grant
 - 💼 At **Aicox Soluciones** since July 2024 — started as an intern training infrared detection networks, now a full-time Software Engineer building defense simulation environments
 - ⚛️ Quantum computing enthusiast: **Qiskit Global Summer School 2025** (3 weeks, 8 h/day of labs) plus IBM's *Basics of Quantum Information* and *Fundamentals of Quantum Algorithms*
